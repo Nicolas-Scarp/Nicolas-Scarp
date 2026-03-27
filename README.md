@@ -6,3 +6,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph.svg">
 </picture>
+
+<h3>About Me</h3>
+
+<p>Developer focused on <strong>building robust</strong> and <strong>scalable solutions</strong>, combining the analytical vision of <strong>Computer Science</strong> with the practical experience of an <strong>IT Technician.</strong> Specialized in <strong>creating APIs</strong> and <strong>system architectures</strong> using <strong>Java, JavaScript, and Python,</strong> with strong expertise in data persistence and modeling with <strong>PostgreSQL.</strong></p>
+
+<p>My career combines modern software development with a solid foundation in infrastructure and large-scale technical support. I have worked directly in connectivity audits and maintenance of critical systems, which has given me a unique perspective on reliability, performance, and production-ready code. I always strive to apply best engineering practices to optimize workflows and drive operational excellence.</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/PkLavc/PkLavc/raw/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden=""></a>
+
+<p>Software Developer | Computer Science (UFF) | IT Technician (SENAI)</p>
