@@ -25,6 +25,7 @@ Languages ​​& Technologies: `Python`, `Django`, `Postgre`, `JavaScript`,\
 Featured projects: [MySchoolMeal](https), [EduVote](https)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/nicolasscarp/) for a more detailed description of my work experience, education, and certifications.
+
 .
 .
 .
