@@ -1,11 +1,6 @@
 ## Hello, I'm Nicolas Scarp!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Systems+Technology+student;Python+%7C+JavaScript+%7C+Java+%7C+Postgre;Software+Engineer)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph.svg">
-</picture>
 
 <h3>About Me</h3>
 
@@ -16,3 +11,12 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/PkLavc/PkLavc/raw/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden=""></a>
 
 <p>Software Developer | Computer Science (UFF) | IT Technician (SENAI)</p>
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nicolas-Scarp/Nicolas-Scarp/output/pacman-contribution-graph.svg">
+</picture>
