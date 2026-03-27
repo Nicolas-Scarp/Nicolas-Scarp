@@ -17,7 +17,7 @@
 Below is an overview of my most recent work experience:
 
 <a href="https://paraibadosul.rj.gov.br/inicio">
-<img align="left" height="94px" width="94px" alt="Warpnet" src=".github/workflows/logo.png"](https://paraibadosul.rj.gov.br/inicio)
+<img align="left" height="94px" width="94px" alt="Warpnet" src=".github/workflows/logo.png"](https://paraibadosul.rj.gov.br/inicio)>
 
 **Intern (IT support)** \
 [**PMPS**](https://paraibadosul.rj.gov.br/inicio) • internship \
