@@ -16,24 +16,12 @@
 
 Below is an overview of my most recent work experience:
 
-<table align="left" style="border-spacing: 0; border-collapse: collapse; border: none; margin-right: 15px;">
-  <tr>
-    <td style="background-color: black; border: none; padding: 10px; border-radius: 8px;">
-      <a href="https://paraibadosul.rj.gov.br/inicio">
-        <img src="https://gestor.paraibadosul.rj.gov.br/uploads/files/f22107c7df964f4f96e673affc7680ed-1758572164376.png" width="94" height="94" alt="Warpnet">
-      </a>
-    </td>
-  </tr>
-</table>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="./logo.png"](https://paraibadosul.rj.gov.br/inicio)
 
 **Intern (IT support)** \
 [**PMPS**](https://paraibadosul.rj.gov.br/inicio) • internship \
 Languages ​​& Technologies: `Python`, `Django`, `Postgre`, `JavaScript`,\
 Featured projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-
-<br clear="left" />
-      
-
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
