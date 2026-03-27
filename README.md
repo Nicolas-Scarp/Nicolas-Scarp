@@ -17,17 +17,14 @@
 Below is an overview of my most recent work experience:
 
 <a href="https://paraibadosul.rj.gov.br/inicio">
-        <img src="logo.png" width="70" alt="Warpnet" style="display: block;">
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="./logo.png/"](https://paraibadosul.rj.gov.br/inicio)
+<img align="left" height="94px" width="94px" alt="Warpnet" src=".github/workflows/logo.png"](https://paraibadosul.rj.gov.br/inicio)
 
 **Intern (IT support)** \
 [**PMPS**](https://paraibadosul.rj.gov.br/inicio) • internship \
 Languages ​​& Technologies: `Python`, `Django`, `Postgre`, `JavaScript`,\
 Featured projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
+Please find me on [LinkedIn](https://www.linkedin.com/in/nicolasscarp/) for a more detailed description of my work experience, education, and certifications.
 .
 .
 .
