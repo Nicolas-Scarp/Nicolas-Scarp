@@ -22,7 +22,7 @@ Below is an overview of my most recent work experience:
 **Intern (IT support)** \
 [**PMPS**](https://paraibadosul.rj.gov.br/inicio) • internship \
 Languages ​​& Technologies: `Python`, `Django`, `Postgre`, `JavaScript`,\
-Featured projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Featured projects: [School Meal App](https), [EduVote](https)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/nicolasscarp/) for a more detailed description of my work experience, education, and certifications.
 .
