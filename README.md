@@ -1,4 +1,5 @@
 ## Hello, I'm Nicolas Scarp!
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Systems+Technology+student;Python+%7C+JavaScript+%7C+Java+%7C+Postgre;Software+Engineer)](https://git.io/typing-svg)
 
 
@@ -25,12 +26,6 @@ Languages ​​& Technologies: `Python`, `Django`, `Postgre`, `JavaScript`,\
 Featured projects: [MySchoolMeal](https), [EduVote](https)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/nicolasscarp/) for a more detailed description of my work experience, education, and certifications.
-
-.
-.
-.
-
-<p>Software Developer | Computer Science (UFF) | IT Technician (SENAI)</p>
 
 .
 .
